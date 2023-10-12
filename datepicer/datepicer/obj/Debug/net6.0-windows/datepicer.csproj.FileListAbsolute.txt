@@ -1,0 +1,17 @@
+C:\Users\mamma_er07\Documents\WinForms\datepicer\datepicer\bin\Debug\net6.0-windows\datepicer.exe
+C:\Users\mamma_er07\Documents\WinForms\datepicer\datepicer\bin\Debug\net6.0-windows\datepicer.deps.json
+C:\Users\mamma_er07\Documents\WinForms\datepicer\datepicer\bin\Debug\net6.0-windows\datepicer.runtimeconfig.json
+C:\Users\mamma_er07\Documents\WinForms\datepicer\datepicer\bin\Debug\net6.0-windows\datepicer.dll
+C:\Users\mamma_er07\Documents\WinForms\datepicer\datepicer\bin\Debug\net6.0-windows\datepicer.pdb
+C:\Users\mamma_er07\Documents\WinForms\datepicer\datepicer\obj\Debug\net6.0-windows\datepicer.csproj.AssemblyReference.cache
+C:\Users\mamma_er07\Documents\WinForms\datepicer\datepicer\obj\Debug\net6.0-windows\datepicer.Form1.resources
+C:\Users\mamma_er07\Documents\WinForms\datepicer\datepicer\obj\Debug\net6.0-windows\datepicer.csproj.GenerateResource.cache
+C:\Users\mamma_er07\Documents\WinForms\datepicer\datepicer\obj\Debug\net6.0-windows\datepicer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamma_er07\Documents\WinForms\datepicer\datepicer\obj\Debug\net6.0-windows\datepicer.AssemblyInfoInputs.cache
+C:\Users\mamma_er07\Documents\WinForms\datepicer\datepicer\obj\Debug\net6.0-windows\datepicer.AssemblyInfo.cs
+C:\Users\mamma_er07\Documents\WinForms\datepicer\datepicer\obj\Debug\net6.0-windows\datepicer.csproj.CoreCompileInputs.cache
+C:\Users\mamma_er07\Documents\WinForms\datepicer\datepicer\obj\Debug\net6.0-windows\datepicer.dll
+C:\Users\mamma_er07\Documents\WinForms\datepicer\datepicer\obj\Debug\net6.0-windows\refint\datepicer.dll
+C:\Users\mamma_er07\Documents\WinForms\datepicer\datepicer\obj\Debug\net6.0-windows\datepicer.pdb
+C:\Users\mamma_er07\Documents\WinForms\datepicer\datepicer\obj\Debug\net6.0-windows\datepicer.genruntimeconfig.cache
+C:\Users\mamma_er07\Documents\WinForms\datepicer\datepicer\obj\Debug\net6.0-windows\ref\datepicer.dll
