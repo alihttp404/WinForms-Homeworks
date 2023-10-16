@@ -1,0 +1,16 @@
+C:\Users\MammadovAliRovshan\Documents\programming\WinForms\WinForms-Homeworks\WinForms HW1\Running label\bin\Debug\net6.0-windows\Running label.exe
+C:\Users\MammadovAliRovshan\Documents\programming\WinForms\WinForms-Homeworks\WinForms HW1\Running label\bin\Debug\net6.0-windows\Running label.deps.json
+C:\Users\MammadovAliRovshan\Documents\programming\WinForms\WinForms-Homeworks\WinForms HW1\Running label\bin\Debug\net6.0-windows\Running label.runtimeconfig.json
+C:\Users\MammadovAliRovshan\Documents\programming\WinForms\WinForms-Homeworks\WinForms HW1\Running label\bin\Debug\net6.0-windows\Running label.dll
+C:\Users\MammadovAliRovshan\Documents\programming\WinForms\WinForms-Homeworks\WinForms HW1\Running label\bin\Debug\net6.0-windows\Running label.pdb
+C:\Users\MammadovAliRovshan\Documents\programming\WinForms\WinForms-Homeworks\WinForms HW1\Running label\obj\Debug\net6.0-windows\Running_label.Form1.resources
+C:\Users\MammadovAliRovshan\Documents\programming\WinForms\WinForms-Homeworks\WinForms HW1\Running label\obj\Debug\net6.0-windows\Running label.csproj.GenerateResource.cache
+C:\Users\MammadovAliRovshan\Documents\programming\WinForms\WinForms-Homeworks\WinForms HW1\Running label\obj\Debug\net6.0-windows\Running label.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MammadovAliRovshan\Documents\programming\WinForms\WinForms-Homeworks\WinForms HW1\Running label\obj\Debug\net6.0-windows\Running label.AssemblyInfoInputs.cache
+C:\Users\MammadovAliRovshan\Documents\programming\WinForms\WinForms-Homeworks\WinForms HW1\Running label\obj\Debug\net6.0-windows\Running label.AssemblyInfo.cs
+C:\Users\MammadovAliRovshan\Documents\programming\WinForms\WinForms-Homeworks\WinForms HW1\Running label\obj\Debug\net6.0-windows\Running label.csproj.CoreCompileInputs.cache
+C:\Users\MammadovAliRovshan\Documents\programming\WinForms\WinForms-Homeworks\WinForms HW1\Running label\obj\Debug\net6.0-windows\Running label.dll
+C:\Users\MammadovAliRovshan\Documents\programming\WinForms\WinForms-Homeworks\WinForms HW1\Running label\obj\Debug\net6.0-windows\refint\Running label.dll
+C:\Users\MammadovAliRovshan\Documents\programming\WinForms\WinForms-Homeworks\WinForms HW1\Running label\obj\Debug\net6.0-windows\Running label.pdb
+C:\Users\MammadovAliRovshan\Documents\programming\WinForms\WinForms-Homeworks\WinForms HW1\Running label\obj\Debug\net6.0-windows\Running label.genruntimeconfig.cache
+C:\Users\MammadovAliRovshan\Documents\programming\WinForms\WinForms-Homeworks\WinForms HW1\Running label\obj\Debug\net6.0-windows\ref\Running label.dll
